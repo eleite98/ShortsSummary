@@ -1,0 +1,2 @@
+# ShortsSummary
+Shorts Summary Application
