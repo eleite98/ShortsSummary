@@ -1,5 +1,5 @@
 <p align="center">
-    <img src ="gitHub/ShortsSummary/blob/master/SS.png" alt = "project demonstration" widht="100%" />
+    <img src ="" alt = "project demonstration" widht="100%" />
 </p>
 
 ## 🖥️ Project 
