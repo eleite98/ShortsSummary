@@ -14,7 +14,7 @@ Project developed during Next Level Week event of Rocketseat with:
 - JavaScript
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
 ##  :video_game: Commands
 
